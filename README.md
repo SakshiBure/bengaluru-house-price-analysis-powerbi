@@ -17,7 +17,7 @@ This project provides an interactive visualization of Bengaluru housing data, fo
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview](Images/dashboard-preview.png)
 
 ---
 
